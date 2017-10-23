@@ -1,7 +1,7 @@
 body{
 	padding:0;
 	margin:0;
-	background-color:#008B8B																									 ;
+	background-color:#A9A9A9																									 ;
 	font-family:arial;
 }
 h1{
@@ -12,4 +12,10 @@ p{
 	font-size:20px;
 	color:#fff;
 	text-align:center; 
+	
+}
+img{
+	width: 35%;
+	margin: 0 40%;
+
 }
